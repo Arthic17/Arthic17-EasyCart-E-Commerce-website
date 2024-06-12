@@ -1,0 +1,5 @@
+#Secret
+backend/config/config.env
+
+#node modules
+node_modules/
